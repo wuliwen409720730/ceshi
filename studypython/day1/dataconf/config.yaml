@@ -1,0 +1,3 @@
+excel_path: r'E:\studypython\day1\dataconf\cases.xls'
+login_path: r'E:\studypython\day1\dataconf\login.yaml'
+yaml_path: r'E:\studypython\day1\dataconf\config.yaml'
